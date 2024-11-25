@@ -12,14 +12,15 @@ Engineering intuitive web solutions with modern technologies.
 - Cloud Computing Solutions
 
 ## Connect with Me
-<div align="left" style="margin: 40px 0">
-    <a href="https://linkedin.com/in/neftalem-gebremicael">
-        <img width="175px" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&backgroundColor=0D1117" />
-    </a>
-    <a href="mailto:nhagos2000@gmail.com">
-        <img width="150px" src="https://custom-icon-badges.demolab.com/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&backgroundColor=0D1117" />
-    </a>
+<div align="left">
+  <a href="https://linkedin.com/in/neftalem-gebremicael" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:nhagos2000@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo" />
+  </a>
 </div>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoboinef-2000&layout=compact&theme=tokyonight)
 
