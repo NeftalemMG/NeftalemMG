@@ -12,14 +12,15 @@ Engineering intuitive web solutions with modern technologies.
 - Cloud Computing Solutions
 
 ## Connect with Me
-<div align="left">
-  <a href="https://linkedin.com/in/neftalem-gebremicael" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+<p align="left">
+  <a href="https://linkedin.com/in/neftalem-gebremicael">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:nhagos2000@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  &nbsp;&nbsp;
+  <a href="mailto:nhagos2000@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</div>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoboinef-2000&layout=compact&theme=tokyonight)
 
