@@ -2,15 +2,14 @@
 ## About Me
 Engineering intuitive web solutions with modern technologies.
 
-## Currently Learning
-- AWS & Cloud Architecture
-- Cloud Computing Solutions
-
 ## Skills
 - **Frontend**: React, JavaScript, HTML, Tailwind CSS
 - **Backend**: Node.js, Python, Express, Django, Flask, C
 - **Databases**: MongoDB, MySQL, Redis
 
+## Currently Learning
+- AWS & Cloud Architecture
+- Cloud Computing Solutions
 
 ## Connect with Me
 <div>
@@ -25,5 +24,6 @@ Engineering intuitive web solutions with modern technologies.
   </a>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoboinef-2000&layout=compact&theme=tokyonight)
 
 
