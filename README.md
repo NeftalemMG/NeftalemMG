@@ -1,37 +1,21 @@
-<div align="center">
-  <h1>👋 Hello, I'm Neftalem</h1>
-  <p>Engineering intuitive web solutions with modern technologies</p>
-</div>
-Languages and Tools
-Frontend
+### Hi there, I'm Neftalem Gebremicael 👋
+## About Me
+Engineering intuitive web solutions with modern technologies.
 
-React
-JavaScript
-HTML
-Tailwind CSS
+## Currently Learning
+- AWS & Cloud Architecture
+- Cloud Computing Solutions
 
-Backend
+## Skills
+- **Frontend**: React, JavaScript, HTML, Tailwind CSS
+- **Backend**: Node.js, Python, Express, Django, Flask
+- **Databases**: MongoDB, MySQL, Redis
 
-Node.js
-Python
-MongoDB
-Express
-Django
-Flask
-MySQL
-Redis
+### 📫 How to Reach Me
+- Email: nhagos2000@gmail.com
+- LinkedIn: [Neftalem Gebremicael](https://linkedin.com/in/neftalem-gebremicael)
 
-Currently Learning
-
-AWS & Cloud Architecture
-Cloud Computing Solutions
-
-📫 How to Reach Me
-
-Email: nhagos2000@gmail.com
-LinkedIn: Neftalem Gebremicael
-
-Let's Connect
+## Connect with Me
 <div>
   <a href="https://github.com/Yoboinef-2000">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -43,4 +27,5 @@ Let's Connect
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-Show Image
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoboinef-2000&layout=compact&theme=tokyonight)
