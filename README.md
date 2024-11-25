@@ -11,9 +11,6 @@ Engineering intuitive web solutions with modern technologies.
 - **Backend**: Node.js, Python, Express, Django, Flask
 - **Databases**: MongoDB, MySQL, Redis
 
-### 📫 How to Reach Me
-- Email: nhagos2000@gmail.com
-- LinkedIn: [Neftalem Gebremicael](https://linkedin.com/in/neftalem-gebremicael)
 
 ## Connect with Me
 <div>
@@ -29,3 +26,7 @@ Engineering intuitive web solutions with modern technologies.
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoboinef-2000&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoboinef-2000&show_icons=true&theme=tokyonight)
+
+
