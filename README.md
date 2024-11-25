@@ -27,6 +27,16 @@ Engineering intuitive web solutions with modern technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoboinef-2000&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoboinef-2000&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoboinef-2000&layout=donut&theme=tokyonight)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yoboinef-2000&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yoboinef-2000&color=blue)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yoboinef-2000&theme=tokyonight)](https://git.io/streak-stats)
+
+
 
 
