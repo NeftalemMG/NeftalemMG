@@ -1,30 +1,29 @@
 # Hi there, I'm Neftalem Gebremicael 👋
 
-## About Me
+## 📖 About Me  
 Fullstack developer engineering intuitive web solutions with modern technologies.  
-Passionate about solving real-world problems through efficient and scalable code.
 
 ---
 
-## Skills  
+## 🛠️ Skills  
 ### Frontend  
 - React, JavaScript, HTML, Tailwind CSS  
 
 ### Backend  
-- Node.js , Python (Django, Flask), Express, C, Bash  
+- Node.js, Python (Django, Flask), Express, C, Bash  
 
 ### Databases  
 - MongoDB, MySQL, Redis  
 
 ---
 
-## Currently Learning  
+## 🌱 Currently Learning  
 - AWS & Cloud Architecture  
 - Cloud Computing Solutions  
 
 ---
 
-## Connect with Me  
+## 🌐 Connect with Me  
 
 <div align="left">
   <a href="https://linkedin.com/in/neftalem-gebremicael" style="text-decoration: none; margin-right: 15px;">
