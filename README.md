@@ -1,4 +1,4 @@
-# Hi there, I'm Neftalem Gebremicael 👋
+## Hi there, I'm Neftalem Gebremicael 👋
 
 ## 📖 About Me  
 Fullstack developer engineering intuitive web solutions with modern technologies.  
