@@ -6,14 +6,9 @@ Fullstack developer engineering intuitive web solutions with modern technologies
 ---
 
 ## 🛠️ Skills  
-### Frontend  
-- React, JavaScript, HTML, Tailwind CSS  
-
-### Backend  
-- Node.js, Python (Django, Flask), Express, C, Bash  
-
-### Databases  
-- MongoDB, MySQL, Redis  
+Frontend: React, JavaScript, HTML, Tailwind CSS  
+Backend: Node.js, Python (Django, Flask), Express, C, Bash  
+Databases: MongoDB, MySQL, Redis  
 
 ---
 
